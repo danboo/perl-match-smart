@@ -1,0 +1,6 @@
+Revision history for Perl extension Match::Smart.
+
+0.01  Sun Jan 25 09:36:29 2004
+	- original version; created by h2xs 1.22 with options
+		-AX -b 5.6.0 -n Match::Smart
+
